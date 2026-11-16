@@ -15,7 +15,7 @@ I started the PHP development server using `php -S 0.0.0.0:8000` and opened the 
 
 I submitted a tutoring request using the test student name "Test Student" for IS 6465. The request was successfully saved and displayed as Request #2 with a status of Open.
 
-**Screenshot:** [Insert the screenshot of Request #2 here]
+**Screenshot:** []
 ## Part 3: Application Workflow Testing
 
 | Test | What I Did | Expected Result | Actual Result | Pass or Fail |

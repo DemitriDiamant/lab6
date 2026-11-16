@@ -11,7 +11,7 @@ I verified the database using the `.tables` command. Both required tables, `stud
 
 I started the PHP development server using `php -S 0.0.0.0:8000` and opened the Peer Tutoring Hub through my GitHub Codespaces forwarded URL.
 
-**Application URL:** [Paste your actual forwarded URL here]
+**Application URL:** (https://reimagined-space-barnacle-7pv5wjvq9qcpj55-8000.app.github.dev/php/request-form.php)
 
 I submitted a tutoring request using the test student name "Test Student" for IS 6465. The request was successfully saved and displayed as Request #2 with a status of Open.
 
